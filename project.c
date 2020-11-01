@@ -12,7 +12,8 @@ int main()
 		printf(" *\n");
 	}
 
-	printf("Fick dick");
+	printf("Fick dick mother fuckeir");
+	printf("Werden die anderungen wahrgenommen werden?") ;
 
 
 
